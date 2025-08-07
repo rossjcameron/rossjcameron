@@ -9,7 +9,7 @@ Right now, I’m focused on sharpening my skills for the **JPMorgan Software Eng
 Some of my current and recent projects include:
 - **Logura** – A freelancer productivity app I’m designing and building from scratch using **React Native** and **Firebase**. It includes time tracking, weekly summaries, client voice notes, and project organisation tools. It’s my take on making freelance life less chaotic.
 - **Fitxel** – A fitness accountability app built for everyday gym-goers. It allows users to log workouts, track consistency, and view simple progress metrics. Fitxel focuses on building real discipline, not chasing aesthetic perfection — and features a custom-built algorithm that generates workouts tailored to each user’s fitness goals, preferences, and available equipment. I’m building it mobile-first with a clean, calming design system and weekly insights to keep users motivated.
-- **AW Sports Admin Dashboard** – A custom-built, highly dynamic order and enquiry management system for a client in the sportswear space. Features include WhatsApp integration, caching, pagination, and dynamic product customisation options.
+- **AW Sports Admin Dashboard** – [aw-sports.com](https://aw-sports.com) A custom-built, highly dynamic order and enquiry management system for a client in the sportswear space. Features include WhatsApp integration, caching, pagination, and dynamic product customisation options.
 - **Cameron Tech Solutions** – My web design business, where I build modern websites for small businesses at affordable rates. I’ve created reusable components, admin interfaces, and booking systems that solve real-world client needs.
 
 ### 🔍 What I'm Learning
